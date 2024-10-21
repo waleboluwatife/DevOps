@@ -1,1 +1,1 @@
-This is my new DevOps project. Enjoy my journey
+This is a new README.md file for rebase testing
